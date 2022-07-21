@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #Like wolf🐺
+=======
+#Like wolf🦁
+>>>>>>> 67af8e028717db1e1b0bb14a12f7cfd123a99501
 Hello, I am Minjung. Welcome!
