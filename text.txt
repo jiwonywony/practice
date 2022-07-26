@@ -1,4 +1,7 @@
 #Like wolf🐺
 Hello, I am Minjung. Welcome!
+<<<<<<< HEAD
 강병욱이다!
 송희원
+=======
+>>>>>>> 3ceaece6ec006012173eb81c0c5accf0e928335e
